@@ -1,0 +1,97 @@
+species	genes	name	taxonomy_id	assembly_id	assembly_name	genebuild	nProteinCoding	nProteinCodingUniProtKBSwissProt	nProteinCodingUniProtKBTrEMBL	uniprotCoverage
+actinidia_chinensis	32460	Actinidia chinensis	1590841	GCA_003024255.1	Red5_PS1_1.69.0	2018-04ENA	33044	6	33044	100.02
+aegilops_tauschii	38271	Aegilops tauschii	200361	GCA_002575655.1	Aet v4.0	2017-10-UCD/2017-10	39614	7	24486	61.83
+amborella_trichopoda	21549	Amborella trichopoda	13333	GCA_000471905.1	AMTR1.0	2014-01-AGD	27313	34	27310	100.11
+ananas_comosus	22358	Ananas comosus	4615	GCA_902162155.1	F153	2019-10-UIL/2019-10	25783	8	16219	62.94
+arabidopsis_halleri	30603	Arabidopsis halleri	63677	GCA_900078215.1	Ahal2.2	2016-09-UZH/2016-09	32158	0	241	0.75
+arabidopsis_lyrata	30528	Arabidopsis lyrata	81972	GCA_000004255.1	v.1.0	2008-12-JGI/2008-12	32667	30	32470	99.49
+arabidopsis_thaliana	26358	Arabidopsis thaliana	3702	GCA_000001735.1	TAIR10	Araport11	27628	15559	23823	142.54
+asparagus_officinalis	19998	Asparagus officinalis	4686	GCA_001876935.1	Aspof.V1	2019-11-UniversityofGeorgia/2019-11	24141	8	24125	99.97
+beta_vulgaris	20836	Beta vulgaris	3555	GCA_000511025.2	RefBeet-1.2.2	2015-07-BOKU	26521	37	7470	28.31
+brachypodium_distachyon	28577	Brachypodium distachyon	15368	GCA_000005505.4	Brachypodium_distachyon_v3.0	2018-01-JGI/2018-01	34310	36	34307	100.10
+brassica_napus	94723	Brassica napus	3708	GCA_000751015.1	AST_PRJEB5043_v1	2015-09-GSC	101040	149	62919	62.42
+brassica_oleracea	57334	Brassica oleracea	109376	GCA_000695525.1	BOL	2014-05-CanSeq/2014-05	59220	20	59220	100.03
+brassica_rapa_ro18	41207	Brassica rapa R-o-18	1813537	GCA_017639395.1	SCU_BraROA_2.3	2021-04-MBGP/2021-04	43129	0	0	0.00
+camelina_sativa	82179	Camelina sativa	90675	GCA_000633955.1	Cs	2020-02-Cs_genes_V2/2020-02	89275	0	129	0.14
+cannabis_sativa_female	23897	Cannabis sativa female	3483	GCA_900626175.1	cs10	2020-02-CS10/2020-02	27236	7	100	0.39
+capsicum_annuum	34389	Capsicum annuum	4072	GCA_000512255.2	ASM51225v2	2017-11-ENA/2017-11	35845	52	35845	100.15
+chara_braunii	30436	Chara braunii	69332	GCA_003427395.1	Cbr_1.0	2018-10-KanazawaUniversity/2018-10	34718	0	33777	97.29
+chenopodium_quinoa	33474	Chenopodium quinoa	63459	GCA_001683475.1	ASM168347v1	2020-07-maker/2020-07	34426	0	8	0.02
+chlamydomonas_reinhardtii	12202	Chlamydomonas reinhardtii	3055	GCA_000002595.3	Chlamydomonas_reinhardtii_v5.5	2018-01-JGI/2018-01	17743	322	17737	101.78
+chondrus_crispus	5778	Chondrus crispus	2769	GCA_000350225.2	ASM35022v2	2015-09-Genoscope	9807	11	9806	100.10
+citrullus_lanatus	19715	Citrullus lanatus	3654	GCA_000238415.2	Cla97_v1	2020-02-Cla97/2020-02	22541	5	207	0.94
+citrus_clementina	23479	Citrus clementina	85681	GCA_000493195.1	Citrus_clementina_v1.0	2013-11-ENA/2013-11	25000	0	24989	99.96
+coffea_canephora	23643	Coffea canephora	49390	GCA_900059795.1	AUK_PRJEB4211_v1	2015-09-ENA/2015-09	25574	3	25574	100.01
+corchorus_capsularis	21799	Corchorus capsularis	210143	GCA_001974805.1	CCACVL1_1.0	2017-02-BJRI/2017-02	29356	0	29356	100.00
+corylus_avellana	24838	Corylus avellana	13451	GCA_901000735.2	CavTom2PMs-1.0	2021-03-HWG/2021-03	25732	6	134	0.54
+corymbia_citriodora	33930	Corymbia citriodora	360336	GCA_014858505.1	Ccitriodora_v2_1	v2.1	35628	0	4	0.01
+cucumis_melo	23940	Cucumis melo	3656	GCA_902497455.1	Melonv4	2020-02-melonomics/2020-02	28299	11	17906	63.31
+cucumis_sativus	20740	Cucumis sativus	3659	GCA_000004075.2	ASM407v2	2014-10-BGI/2014-10	23780	65	23780	100.27
+cyanidioschyzon_merolae	3562	Cyanidioschyzon merolae	280699	GCA_000091205.1	ASM9120v1	2019-12-NIG	4973	97	4640	95.25
+daucus_carota	29268	Daucus carota	79200	GCA_001625215.1	ASM162521v1	2016-06-USDA/2016-06	32109	136	32109	100.42
+dioscorea_rotundata	27945	Dioscorea rotundata	55577	GCA_009730915.1	TDr96_F1_v2_PseudoChromosome	2020-06-v2.0/2020-06	34551	0	11	0.03
+eragrostis_curvula	50254	Eragrostis curvula	38414	GCA_007726485.1	CERZOS_E.curvula1.0	2019-09-CERZOSCONICET/2019-09	55182	0	2	0.00
+eragrostis_tef	38739	Eragrostis tef	110835	GCA_000970635.1	ASM97063v1	2019-05-TPI/2019-05	41555	0	54	0.13
+eucalyptus_grandis	32687	Eucalyptus grandis	71139	GCA_000612305.1	Egrandis1_0	2017-09-Geneglob/2017-09	36779	1	36742	99.90
+ficus_carica	29216	Ficus carica	3494	GCA_009761775.1	UNIPI_FiCari_1.0	2021-03-UNIPI/2021-03	37684	1	100	0.27
+galdieria_sulphuraria	4996	Galdieria sulphuraria	130081	GCA_000341285.1	ASM34128v1	2013-02-GsGP/2013-02	6622	23	6621	100.33
+glycine_max	51385	Glycine max	3847	GCA_000004515.4	Glycine_max_v2.1	2018-08-JGI/2018-08	55897	412	55891	100.73
+gossypium_raimondii	35971	Gossypium raimondii	29730	GCA_000327365.1	Graimondii2_0_v6	2017-09-DOEJointGenomeInstitute/2017-09	38208	0	38166	99.89
+helianthus_annuus	58007	Helianthus annuus	4232	GCA_002127325.2	HanXRQr2.0-SUNRISE	2021-03-Heliagene/2021-03	70864	160	45897	64.99
+hordeum_vulgare	35209	Hordeum vulgare	112509	GCA_904849725.1	MorexV3_pseudomolecules_assembly	2021-04-JHI	35825	266	16154	45.83
+ipomoea_triloba	29207	Ipomoea triloba	35885	GCA_003576645.1	ASM357664v1	2019-09-GT4SP	31358	0	0	0.00
+juglans_regia	39899	Juglans regia	51240	GCA_001411555.2	Walnut_2.0	2020-11-UCD/2020-11	40487	4	38017	93.91
+lactuca_sativa	34386	Lactuca sativa	4236	GCA_002870075.2	Lsat_Salinas_v7	2021-04-UCD	38293	85	38279	100.19
+leersia_perrieri	26001	Leersia perrieri	77586	GCA_000325765.3	Lperr_V1.4	2013-09-OGE	29078	0	29074	99.99
+lupinus_angustifolius	31797	Lupinus angustifolius	3871	GCA_001865875.1	LupAngTanjil_v1.0	2017-07-CSIRO/2018-10	33074	12	14421	43.64
+malus_domestica_golden	37156	Malus domestica Golden	3750	GCA_002114115.1	ASM211411v1	2019-12-GDDH13/2019-12	40624	41	28704	70.76
+manihot_esculenta	29582	Manihot esculenta	3983	GCA_001659605.1	Manihot esculenta v6	2017-09-JGI	33044	45	33043	100.13
+marchantia_polymorpha	13736	Marchantia polymorpha	3197	GCA_003032435.1	Marchanta_polymorpha_v1	2018-04-ENA/2018-04	19287	76	19287	100.39
+medicago_truncatula	41732	Medicago truncatula	3880	GCA_000219495.2	MedtrA17_4.0	2014-06-ENA	50444	79	50431	100.13
+musa_acuminata	31745	Musa acuminata	214687	GCA_904845865.1	Musa_acuminata_v2	2016-01-BGH/2020-11	35012	12	14392	41.14
+nicotiana_attenuata	20110	Nicotiana attenuata	49451	GCA_001879085.1	NIATTr2	2017-09-MPI-CE	33320	3	33320	100.01
+nymphaea_colorata	24150	Nymphaea colorata	210225	GCA_008831285.1	ASM883128v1	2020-02-asm20170215/2020-02	28438	0	25915	91.13
+olea_europaea	49679	Olea europaea	158383	GCA_902713445.1	OLEA9	2021-03-CNAG/2021-03	55576	22	337	0.65
+oryza_barthii	32886	Oryza barthii	65489	GCA_000182155.2	O.barthii_v1	2014-05-OGE	34575	0	34564	99.97
+oryza_brachyantha	25928	Oryza brachyantha	4533	GCA_000231095.2	Oryza_brachyantha.v1.4b	2011-05-OGE	32037	0	32032	99.98
+oryza_glaberrima	32254	Oryza glaberrima	4538	GCA_000147395.1	Oryza_glaberrima_V1	2011-05-OGE	33164	1	33161	99.99
+oryza_glumipatula	33389	Oryza glumipatula	40148	GCA_000576495.1	Oryza_glumaepatula_v1.5	2013-09-OGE	35735	0	35721	99.96
+oryza_indica	38128	Oryza sativa Indica Group	39946	GCA_000004655.2	ASM465v1	2010-07-BGI	40745	570	36796	91.71
+oryza_longistaminata	28991	Oryza longistaminata	4528	GCA_000789195.1	O_longistaminata_v1.0	2015-05-OGE	31686	0	101	0.32
+oryza_meridionalis	26725	Oryza meridionalis	40149	GCA_000338895.2	Oryza_meridionalis_v1.3	2014-10-OGE	29308	0	29294	99.95
+oryza_nivara	34437	Oryza nivara	4536	GCA_000576065.1	Oryza_nivara_v1.0	2013-09-OGE	36313	27	36305	100.05
+oryza_punctata	28498	Oryza punctata	4537	GCA_000573905.1	Oryza_punctata_v1.2	2013-09-OGE	31762	0	31748	99.96
+oryza_rufipogon	35084	Oryza rufipogon	4529	GCA_000817225.1	OR_W1943	2013-09-OGE	37071	1	37063	99.98
+oryza_sativa	31437	Oryza sativa Japonica Group	39947	GCA_001433935.1	IRGSP-1.0	2019-06-RAPDB/2019-06	35775	3096	32864	100.52
+panicum_hallii	28832	Panicum hallii HAL2	1504633	GCA_003061485.1	PhalliiHAL_v2.1	2018-05ENA	33263	0	33263	100.00
+papaver_somniferum	36149	Papaver somniferum	3469	GCA_003573695.1	ASM357369v1	2019-06-XianJiaotongUniversity/2019-06	41770	46	41768	100.11
+phaseolus_vulgaris	27099	Phaseolus vulgaris	3885	GCA_000499845.1	PhaVulg1_0	2017-09-JGI	28134	111	28095	100.26
+physcomitrium_patens	23371	Physcomitrium patens	3218	GCA_000002425.2	Phypa V3	2018-04-JGI	32234	90	31691	98.59
+pistacia_vera	30357	Pistacia vera	55513	GCA_008641045.1	PisVer_v2	2019-10-EVM/2019-10	31784	0	43	0.14
+populus_trichocarpa	36931	Populus trichocarpa	3694	GCA_000002775.3	Pop_tri_v3	2018-04-JGI	41335	135	41335	100.33
+prunus_dulcis	26236	Prunus dulcis	3755	GCA_902201215.1	ALMONDv2	2020-04-CNAG	27963	10	27963	100.04
+prunus_persica	24894	Prunus persica	3760	GCA_000346465.2	Prunus_persica_NCBIv2	2017-09-JGI	26873	17	26873	100.06
+rosa_chinensis	37712	Rosa chinensis	74649	GCA_002994745.2	RchiOBHm-V2	2019-01-INRACNRS/2019-01	45464	1	45464	100.00
+secale_cereale	34382	Secale cereale	4550	GCA_902687465.1	Rye_Lo7_2018_v1p1p1	Feb2019.HC	34441	0	0	0.00
+selaginella_moellendorffii	33275	Selaginella moellendorffii	88036	GCA_000143415.1	v1.0	2011-05-JGI	34799	31	34762	99.98
+sesamum_indicum	23333	Sesamum indicum	4182	GCA_000512975.1	S_indicum_v1.0	2020-12-SINBASE/2020-12	25172	13	18258	72.58
+setaria_italica	30587	Setaria italica	4555	GCA_000263155.2	Setaria_italica_v2.0	2015-11-JGI/2015-11	35831	2	35828	100.00
+setaria_viridis	32661	Setaria viridis	4556	GCA_005286985.1	Setaria_viridis_v2.0	2019-05-DOEJointGenomeInstitute/2019-05	38334	0	38334	100.00
+solanum_lycopersicum	29555	Solanum lycopersicum	4081	GCA_000188115.3	SL3.0	2017-02-SOL/2018-10	34429	406	27133	79.99
+solanum_tuberosum	35400	Solanum tuberosum	4113	GCA_000226075.1	SolTub_3.0	2011-05-SolTub_3.0	39021	245	39010	100.60
+sorghum_bicolor	29420	Sorghum bicolor	4558	GCA_000003195.3	Sorghum_bicolor_NCBIv3	2017-06-JGI	34118	142	34078	100.30
+theobroma_cacao	25298	Theobroma cacao Matina 1-6	3641	GCA_000403535.1	Theobroma_cacao_20110822	2014-05-CGD	29188	5	29188	100.02
+trifolium_pratense	35903	Trifolium pratense	57577	GCA_900079335.1	Trpr	2016-04-TGAC	39917	0	26935	67.48
+triticum_aestivum	107023	Triticum aestivum	4565	GCA_900519105.1	IWGSC	2018-04-IWGSC	107545	600	107124	100.17
+triticum_dicoccoides	60322	Triticum dicoccoides	85692	GCA_002162155.1	WEWSeq v.1.0	2017-05-WEWSeq	62569	1	182	0.29
+triticum_turgidum	65963	Triticum turgidum	4567	GCA_900231445.1	svevo	2017-05-Svevo.v1	66545	0	233	0.35
+triticum_urartu	35062	Triticum urartu	4572	GCA_003073215.1	Tu2.0	IGDB_Final	41449	1	21524	51.93
+vigna_angularis	31084	Vigna angularis	3914	GCA_001190045.1	Vigan1.1	2015-08-BUA/2015-08	33860	1	33860	100.00
+vigna_radiata	21377	Vigna radiata	3916	GCA_000741045.2	Vradiata_ver6	2015-10-SNU	22368	0	5978	26.73
+vitis_vinifera	30673	Vitis vinifera	29760	GCA_910591555.1	PN40024.v4	PN40024.v4.1	35134	148	29997	85.80
+zea_mays	36182	Zea mays	4577	GCA_902167145.1	Zm-B73-REFERENCE-NAM-5.0	2019-12-CSHL/2019-12	39756	692	32783	84.20
+homo_sapiens	12059									
+drosophila_melanogaster	10024									
+ciona_savignyi	8155									
+caenorhabditis_elegans	13337									
+saccharomyces_cerevisiae	3970									
