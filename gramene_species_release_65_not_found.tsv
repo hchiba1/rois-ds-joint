@@ -1,0 +1,35 @@
+#name	species	division	taxonomy_id	assembly_id	assembly_name	genebuild	nProteinCoding	nProteinCodingUniProtKBSwissProt	nProteinCodingUniProtKBTrEMBL	uniprotCoverage
+Arabis alpina	arabis_alpina	EnsemblPlants	50452	GCA_000733195.1	A_alpina_V4	2014-08-TRANSNET/2014-08	21609	3	21583	99.89
+Brassica rapa	brassica_rapa	EnsemblPlants	3711	GCA_000309985.1	Brapa_1.0	2012-03-IVFCAAS/2012-05	41018	9	141	0.37
+Cynara cardunculus	cynara_cardunculus	EnsemblPlants	59895	GCA_001531365.1	CcrdV1	2018-04-ENA/2018-04	26505	6	26504	100.02
+Digitaria exilis	digitaria_exilis	EnsemblPlants	1010633	GCA_902859565.1	Fonio_CM05836	2021-01-KAUST	59843	0	9069	15.15
+Echinochloa crus-galli	echinochloa_crusgalli	EnsemblPlants	90397	GCA_020466025.1	ec_v3	2021-12-ZU	103783	0	9	0.01
+Eutrema salsugineum	eutrema_salsugineum	EnsemblPlants	72664	GCA_000478725.1	Eutsalg1_0	2013-11-JointGenomeInstitute/2013-11	26528	0	26516	99.95
+Hordeum vulgare GoldenPromise	hordeum_vulgare_goldenpromise	EnsemblPlants	112509	GCA_902500625.1	GPv1	2020-02-TRITEX/2020-02	58815	294	12819	22.30
+Hordeum vulgare TRITEX	hordeum_vulgare_tritex	EnsemblPlants	112509	GCA_903813605.1	Morex_V2_scaf	2020-12-IPK/2020-12	32159	289	15742	49.85
+Kalanchoe fedtschenkoi	kalanchoe_fedtschenkoi	EnsemblPlants	63787	GCA_002312845.1	K_fedtschenkoi_M2_v1	2020-04-v1.0/2020-04	30961	0	22	0.07
+Olea europaea var. sylvestris	olea_europaea_sylvestris	EnsemblPlants	158386	GCA_002742605.1	O_europaea_v1	2019-10-ORCAE/2019-10	50678	23	333	0.70
+Ostreococcus lucimarinus	ostreococcus_lucimarinus	EnsemblPlants	436017	GCA_000092065.1	ASM9206v1	2011-01-JGI	7603	20	7570	99.83
+Panicum hallii FIL2	panicum_hallii_fil2	EnsemblPlants	206008	GCA_002211085.2	PHallii_v3.1	2018-05ENA	33805	0	33805	100.00
+Pisum sativum	pisum_sativum	EnsemblPlants	3888	GCA_900700895.2	Pisum_sativum_v1a	v1a	43691	324	174	1.14
+Prunus avium	prunus_avium	EnsemblPlants	42229	GCA_002207925.1	PAV_r1.0	2019-09-GDR/2013-11	42794	8	219	0.53
+Quercus lobata	quercus_lobata	EnsemblPlants	97700	GCA_001633185.2	ValleyOak3.0	2020-05-UCLA/2020-05	39366	0	2	0.01
+Saccharum spontaneum	saccharum_spontaneum	EnsemblPlants	62335	GCA_003544955.1	Sspon.HiC_chr_asm	2019-08-UIL/2019-08	53284	0	65	0.12
+Solanum tuberosum RH89-039-16	solanum_tuberosum_rh8903916	EnsemblPlants	4113	GCA_014189475.1	ASM1418947v1	2020-12-MSU/2020-12	36862	239	22278	61.08
+Theobroma cacao Belizian Criollo B97-61/B2	theobroma_cacao_criollo	EnsemblPlants	3641	GCA_000208745.2	Criollo_cocoa_genome_V2	2019-03-CGH/2019-03	21146	5	4079	19.31
+Triticum aestivum Arinalrfor	triticum_aestivum_arinalrfor	EnsemblPlants	4565	GCA_903993985.1	PGSBv2.0_Arinalrfor	2021-06-PGSBv2.1	143776	0	0	0.00
+Triticum aestivum Cadenza	triticum_aestivum_cadenza	EnsemblPlants	4565	GCA_902810645.1	TGAC_cadenza	2019-09-EI	122839	550	66469	54.56
+Triticum aestivum Claire	triticum_aestivum_claire	EnsemblPlants	4565	GCA_902810655.1	TGAC_paragon	2019-09-EI	121770	552	66177	54.80
+Triticum aestivum Jagger	triticum_aestivum_jagger	EnsemblPlants	4565	GCA_903993795.1	PGSBv2.0_Jagger	2021-06-PGSBv2.1	140382	0	0	0.00
+Triticum aestivum Julius	triticum_aestivum_julius	EnsemblPlants	4565	GCA_903994195.1	PGSBv2.0_Julius	2021-06-PGSBv2.1	140983	0	0	0.00
+Triticum aestivum Lancer	triticum_aestivum_lancer	EnsemblPlants	4565	GCA_903993975.1	PGSBv2.0_Lancer	2021-06-PGSBv2.1	140381	0	0	0.00
+Triticum aestivum Landmark	triticum_aestivum_landmark	EnsemblPlants	4565	GCA_903995565.1	PGSBv2.0_Landmark	2021-06-PGSBv2.1	140178	0	0	0.00
+Triticum aestivum Mace	triticum_aestivum_mace	EnsemblPlants	4565	GCA_903994175.1	PGSBv2.0_Mace	2021-06-PGSBv2.1	140569	0	0	0.00
+Triticum aestivum Sy Mattis	triticum_aestivum_mattis	EnsemblPlants	4565	GCA_903994185.1	PGSBv2.0_Mattis	2021-06-PGSBv2.1	140629	0	0	0.00
+Triticum aestivum Norin61	triticum_aestivum_norin61	EnsemblPlants	4565	GCA_904066035.1	PGSBv2.0_Norin61	2021-06-PGSBv2.1	145065	0	0	0.00
+Triticum aestivum Paragon	triticum_aestivum_paragon	EnsemblPlants	4565	GCA_902810665.1	EI_paragon	2019-09-EI	121567	543	66433	55.09
+Triticum aestivum Robigus	triticum_aestivum_robigus	EnsemblPlants	4565	GCA_902810685.1	TGAC_robigus	2019-09-EI	121524	548	66530	55.20
+Triticum aestivum Stanley	triticum_aestivum_stanley	EnsemblPlants	4565	GCA_903994155.1	PGSBv2.2_Stanley	2021-06-PGSBv2.1	140238	0	0	0.00
+Triticum aestivum Weebill	triticum_aestivum_weebil	EnsemblPlants	4565	GCA_902810675.1	EI_WeebilV1	2016-05-TGAC	122646	560	68545	56.35
+Triticum spelta	triticum_spelta	EnsemblPlants	58933	GCA_903994165.1	PGSBv2.0_Spelta	2019-07-PGSBv2.0	113301	0	0	0.00
+Vigna unguiculata	vigna_unguiculata	EnsemblPlants	3917	GCA_004118075.1	ASM411807v1	2021-03-UCR	31812	10	11209	35.27
