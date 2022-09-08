@@ -1,0 +1,9 @@
+#!/usr/bin/env spang2
+# @endpoint https://sparql.uniprot.org/sparql
+
+PREFIX uniprot: <http://purl.uniprot.org/uniprot/>
+
+SELECT ?p ?o
+WHERE {
+    uniprot:Q9XHC6 ?p ?o
+}
