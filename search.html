@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Taxonomy</title>
+        <script src='https://cdn.jsdelivr.net/gh/blitzboard/blitzboard@d541339/dist/blitzboard.bundle.min.js'></script>
+        <script src='https://unpkg.com/vis-network@9.0.4/standalone/umd/vis-network.min.js'></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
+        <script src="taxonomy/search.js"></script>
+    </head>
+    <body onload=init()>
+        <label id="input_label" for="tags">Search: </label><input id="tags" size="40">
+        <br><br>
+        <div id='graph-area' style="width: 98%; height: 90%; border: solid 1px silver; background: radial-gradient(white, silver);"></div>
+        <script>
+         let blitzboard = new Blitzboard(document.getElementById('graph-area'));
+         let graph, config;
+         let graphPromise = fetch('taxonomy/graph.pg').then(res => {
+             return res.text();
+         }).then(text => {
+             graph = text;
+         });
+         let configPromise = fetch('taxonomy/config-tooltip.js').then(res => {
+             return res.text();
+         }).then(text => {
+             config = text;
+         });
+         Promise.all([graphPromise, configPromise]).then(() => {
+             blitzboard.setGraph(graph, false);
+             blitzboard.setConfig(Function('blitzboard', `"use strict";return (${config})`)(blitzboard), true);
+             blitzboard.network.stabilize();
+         });
+        </script>
+    </body>
+</html>
