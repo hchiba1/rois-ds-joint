@@ -1,0 +1,17 @@
+#!/usr/bin/env spang2
+# @endpoint https://orth.dbcls.jp/sparql-test
+
+PREFIX CHEBI: <http://purl.obolibrary.org/obo/CHEBI_>
+PREFIX : <https://raw.githubusercontent.com/ktamura2021/rdf/main/ontology.ttl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?commonname ?uniprot ?citation ?label
+WHERE {
+  ?s :substrate CHEBI:10352 ;
+     :commonname ?commonname ;
+     :uniprot ?uniprot ;
+     :citation ?citation .
+  SERVICE <https://sparql.uniprot.org/sparql> {
+    ?uniprot rdfs:label ?label .
+  }
+}
