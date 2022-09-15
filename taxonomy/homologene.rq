@@ -1,0 +1,12 @@
+#!/usr/bin/env spang2
+# @endpoint orth1
+# @option -a
+
+SELECT ?member ?taxid ?gene_name ?tax_name
+WHERE {
+  ?g oo:hasHomologousMember ncbigene:815275 , ?member .
+  ?member rdfs:label ?gene_name .
+  ?member oo:taxon ?taxid .
+  ?taxid rdfs:label ?tax_name .
+}
+ORDER BY ?tax_name ?gene_name

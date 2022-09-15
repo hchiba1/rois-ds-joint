@@ -1,0 +1,11 @@
+#!/usr/bin/env spang2
+# @endpoint orth1
+# @option -va
+
+# SELECT ?taxid ?ancestor1
+SELECT *
+WHERE {
+  taxid:10090 rdfs:subClassOf+ ?ancestor1 .
+  taxid:10090 rdfs:subClassOf* ?ancestor2 .
+  ?ancestor2 rdfs:subClassOf ?ancestor1.
+}
